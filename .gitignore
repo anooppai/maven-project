@@ -47,3 +47,5 @@ flows/
 target/
 src/main/api/.repository/ 
 .DS_Store
+activemq-data/
+derby.log
