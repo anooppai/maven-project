@@ -21,7 +21,7 @@
 		<derby.version>10.14.1.0</derby.version>
 		<activemq.version>5.15.3</activemq.version>
 		<uid>advanced-training</uid>
-		<pwd>Change@10</pwd>
+		<pwd>junk</pwd>
 	</properties>
 
 	<build>
